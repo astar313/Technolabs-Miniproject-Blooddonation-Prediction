@@ -30,9 +30,9 @@ def predict():
 
     output = prediction[0] #1 stands for donating blood; 0 stands for not donating blood
     if output == 1:
-        return render_template('index.html', prediction_text='YES ! Donated blood in March 2007 as binary output is = {}'.format(output))
+        return render_template('index.html', prediction_text='YES ! Donated blood in March 2007 as output is = {}'.format(output))
     else:
-        return render_template('index.html', prediction_text='NO ! Did not donate blood in March 2007 as binary output is = {}'.format(output))
+        return render_template('index.html', prediction_text='NO ! Did not donate blood in March 2007 output is = {}'.format(output))
 
 
 # In[5]:
