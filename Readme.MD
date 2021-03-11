@@ -1,4 +1,4 @@
-# Technocolab---Internship---Mini-Project---Predict-Blood-Donation
+# Technocolab-Internship-Mini-Project--Predict-Blood-Donation
 Predict Blood Donation for Future Expectancy
 
 Forecasting blood supply is a serious and recurrent problem for blood collection managers: 
